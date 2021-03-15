@@ -1,0 +1,6 @@
+{
+  "colori": "http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638?gclid=Cj0KCQjwi7yCBhDJARIsAMWFScOfx18K8eJqiT1jYJQEtkyTbp7LJUqxEpBgbjKVRT8qB_kEaesJC6QaAlRJEALw_wcB",
+  "nazionale":"https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-andamento-nazionale.json"
+  "regioni" : "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-regioni.json",
+  "rt" : "https://raw.githubusercontent.com/CloudItaly/Indice-RT/main/File-JSON.json"
+}
